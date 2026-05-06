@@ -1,6 +1,6 @@
 # Ian Ferrell
 
-I build practical software for real-world workflows: AI agent tooling, trivia/game systems, ham-radio utilities, local-first hardware control, and the occasional weird bridge between old equipment and modern APIs.
+I build practical software for real-world workflows: AI agent tooling, trivia/game systems, ham-radio utilities, reverse engineering, local-first hardware control, and the occasional weird bridge between old equipment and modern APIs. I have been taking things apart and making them do questionable-but-useful things since I learned to solder before I was 10.
 
 Most of my public repos are small tools that came from an actual need, not portfolio theater.
 
@@ -13,4 +13,4 @@ Most of my public repos are small tools that came from an actual need, not portf
 
 ## Current interests
 
-AI-assisted development, local-first automation, pub trivia software, amateur radio, practical agents, and tools that make annoying systems less annoying.
+AI-assisted development, local-first automation, pub trivia software, amateur radio, reverse engineering, practical agents, and tools that make annoying systems less annoying.
