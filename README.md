@@ -6,10 +6,10 @@ Most of my public repos are small tools that came from an actual need, not portf
 
 ## Projects worth a look
 
+- [gobless](https://github.com/FtlC-ian/gobless) — Serverless SSH certificate authority inspired by Netflix BLESS, implemented in Go for AWS Lambda and KMS.
 - [openclaw-channel-zulip](https://github.com/FtlC-ian/openclaw-channel-zulip) — Zulip channel plugin for OpenClaw with concurrent message handling, reactions, uploads, and actions API support.
 - [expert-amp-server](https://github.com/FtlC-ian/expert-amp-server) — Trusted-LAN web UI and API for SPE Expert amplifiers.
 - [zulcrawl](https://github.com/FtlC-ian/zulcrawl) — Zulip archive and search CLI backed by local SQLite/FTS5.
-- GoBless — coming soon.
 
 ## Current interests
 
